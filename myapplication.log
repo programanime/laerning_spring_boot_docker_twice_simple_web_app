@@ -1,0 +1,48 @@
+2021-07-27 18:59:16.095  INFO 1592 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 1592 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 18:59:16.100  INFO 1592 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 18:59:17.758  INFO 1592 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 18:59:18.007  INFO 1592 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.602 seconds (JVM running for 3.767)
+2021-07-27 19:00:27.835  INFO 4764 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 4764 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:00:27.839  INFO 4764 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:00:29.220  INFO 4764 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:00:29.424  INFO 4764 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.003 seconds (JVM running for 3.059)
+2021-07-27 19:04:40.525  INFO 16276 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 16276 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:04:40.530  INFO 16276 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:04:41.970  INFO 16276 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:04:42.159  INFO 16276 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.05 seconds (JVM running for 3.162)
+2021-07-27 19:05:14.845  INFO 16228 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 16228 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:05:14.850  INFO 16228 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:05:16.233  INFO 16228 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:05:16.428  INFO 16228 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.007 seconds (JVM running for 3.1)
+2021-07-27 19:08:12.143  INFO 15860 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 15860 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:08:12.148  INFO 15860 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:08:13.584  INFO 15860 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:08:13.787  INFO 15860 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 1.991 seconds (JVM running for 3.061)
+2021-07-27 19:08:42.039  INFO 4432 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 4432 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:08:42.044  INFO 4432 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:08:43.552  INFO 4432 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:08:43.771  INFO 4432 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.114 seconds (JVM running for 3.236)
+2021-07-27 19:08:52.477  INFO 15740 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 15740 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:08:52.482  INFO 15740 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:08:54.295  INFO 15740 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:08:54.507  INFO 15740 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.408 seconds (JVM running for 3.617)
+2021-07-27 19:13:37.698  INFO 3828 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 3828 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:13:37.704  INFO 3828 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:13:39.119  INFO 3828 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:13:39.314  INFO 3828 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 1.991 seconds (JVM running for 3.096)
+2021-07-27 19:16:10.628  INFO 7588 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 7588 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:16:10.635  INFO 7588 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:16:12.101  INFO 7588 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:16:12.295  INFO 7588 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.049 seconds (JVM running for 3.227)
+2021-07-27 19:17:07.477  INFO 5464 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 5464 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:17:07.481  INFO 5464 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:17:09.338  INFO 5464 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:17:09.609  INFO 5464 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.511 seconds (JVM running for 3.788)
+2021-07-27 19:18:06.313  INFO 15756 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 15756 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:18:06.318  INFO 15756 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:18:07.805  INFO 15756 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:18:08.012  INFO 15756 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.068 seconds (JVM running for 3.257)
+2021-07-27 19:34:02.239  INFO 18064 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Starting SimplewebApplicationTests using Java 11.0.7 on DESKTOP-9DSR51N with PID 18064 (started by dani in S:\linkedin\spring\simpleweb)
+2021-07-27 19:34:02.258  INFO 18064 --- [main] c.i.simpleweb.SimplewebApplicationTests  : No active profile set, falling back to default profiles: default
+2021-07-27 19:34:04.208  INFO 18064 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-07-27 19:34:04.481  INFO 18064 --- [main] c.i.simpleweb.SimplewebApplicationTests  : Started SimplewebApplicationTests in 2.861 seconds (JVM running for 4.606)
